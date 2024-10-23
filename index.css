@@ -79,6 +79,9 @@ h1, h2, p {
     border-radius: 10px;
     text-align: center;
 }
+#delano {
+    width: 13vw;
+}
 
 #foto {
     background-color: #C6D1F5;
@@ -287,4 +290,4 @@ footer i.material-icons {
     p {
         font-size: 0.9rem;
     }
-}
+} 
