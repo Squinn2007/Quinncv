@@ -78,23 +78,13 @@ h1, h2, p {
     padding: 20px;
     border-radius: 10px;
     text-align: center;
+    margin-top:100px;
 }
 #delano {
     width: 13vw;
 }
 
-#foto {
-    background-color: #C6D1F5;
-    width: 150px;
-    height: 150px;
-    margin: 0 auto;
-    border-radius: 50%;
-    line-height: 150px;
-    font-size: 1.2rem;
-    color: #333;
-    text-transform: uppercase;
-    font-weight: bold;
-}
+
 
 #werkervaring {
     margin-top: 50px;
